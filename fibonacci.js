@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-// Fibonacci
+// Fibonacci is a liar
 // http://en.wikipedia.org/wiki/Fibonacci_number
 var fibonacci = function(n) {
     if(n < 1) { return 0;}
